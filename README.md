@@ -317,6 +317,6 @@ See the [documentation for the **garn** Deno library](https://doc.deno.land/http
 
 
 [^1]: This might not always be true between different architectures and
-  platforms (e.g. Linux vs. MacOS).
-[^2]: That said, the installation of **garn** itself isn't always smooth on MacOS.
+  platforms (e.g. Linux vs. macOS).
+[^2]: That said, the installation of **garn** itself isn't always smooth on macOS.
   If you encounter a problem, please [let us know](https://github.com/garnix-io/garn/issues).
