@@ -259,7 +259,7 @@ See a [full project](https://github.com/garnix-io/garn/tree/main/examples/npm-pr
 ## How it works
 
 The essential idea is to generate Nix code corresponding to your projects, and
-then run Nix behind the scenes. In [here](https://github.com/garnix-io/garn/blob/main/ts/nix.ts),
+then run Nix behind the scenes. In [nix.ts](https://github.com/garnix-io/garn/blob/main/ts/nix.ts),
 you can see the simple but low-level Nix AST we use. Objects such as `Check`s
 have a `nixExpression` field that contains their corresponding Nix expression.
 
