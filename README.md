@@ -214,7 +214,7 @@ This creates a Project containing:
 - An Environment or devshell you can enter with `garn enter frontend` with all
   dependencies available.
 
-The right version of `node`, `npm`, `jq`, etc. will be used for all these.
+The right version of `node`, `npm`, `jq`, etc., will be used for all these.
 See a [full project](https://github.com/garnix-io/garn/tree/main/examples/npm-project).
 
 ### Go
@@ -253,7 +253,7 @@ Assuming you have a `cabal` file in `.`, this creates a Project containing:
 - An Environment or devshell you can enter with `garn enter project` with all
   dependencies available.
 
-The right version of `node`, `npm`, `jq`, etc. will be used for all these.
+The right version of `node`, `npm`, `jq`, etc., will be used for all these.
 See a [full project](https://github.com/garnix-io/garn/tree/main/examples/npm-project).
 
 ## How it works
